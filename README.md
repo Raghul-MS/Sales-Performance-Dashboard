@@ -13,7 +13,7 @@ An interactive sales dashboard created in Excel to visualize sales trends, top p
 - Screenshot of Sales Performance Dashboard.png
 - 
 ## Dashboard Preview
-![Dashboard Screenshot](Screenshot_of_Sales_Performance_Dashboard.png)
+![Dashboard Screenshot](Screenshot of Sales Performance Dashboard.png)
 ## Pivot Table Preview
 ![Pivot Table Screenshot](Screenshot_of_the_Pivot_Table.png)
 
