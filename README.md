@@ -10,6 +10,13 @@ An interactive sales dashboard created in Excel to visualize sales trends, top p
 ## How to Use
 - Download the `Sales_Dashboard.xlsx` file.
 - Open it in Excel to explore the interactive dashboard.
+- Screenshot of Sales Performance Dashboard.png
+## Dashboard Preview
+![Dashboard Screenshot](Screenshot_of_Sales_Performance_Dashboard.png)
+## Table Preview
+![Pivot Table Screenshot](Screenshot_of_Sales_Performance_Dashboard.png)
+
+
 
 - If you have any suggestion regarding my dashboard .....Please let me know it will help me to enchance it
   - -THANKYOU-
